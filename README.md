@@ -1,4 +1,4 @@
 # variidev
 my website.
 
-follow me: https://twitter.com/variitheclown
+twitter: https://twitter.com/variouzXD
