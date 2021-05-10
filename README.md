@@ -1,4 +1,3 @@
-# variouz
-my website.
+# Variouz
 
-twitter: https://twitter.com/variouzXD
+Twitter: https://twitter.com/_variouz
